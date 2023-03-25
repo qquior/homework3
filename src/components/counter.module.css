@@ -1,0 +1,12 @@
+.counter {
+    font-size: 50px;
+    color:aquamarine;
+}
+
+button {
+    background-color: #eee;
+    border: 1px solid #ccc;
+    padding:  10px 20px;
+    font-size: 18px;
+    cursor: poiter;
+}
